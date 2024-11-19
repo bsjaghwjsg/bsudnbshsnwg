@@ -1,3 +1,0 @@
-bitcoin==1.1.42
-http.client==0.1.22
-Requests==2.32.3
